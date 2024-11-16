@@ -12,3 +12,9 @@ docker run --name container_name -p 8501:8501 -d -v $(pwd):/code image_name
 # check the app in browser by writing following
 
 http://localhost:8501
+
+# use the user name "admin" and password "admin123" to check admin rights
+
+# use the user name "user" and password "user123" to check user rights
+
+

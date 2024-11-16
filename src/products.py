@@ -1,4 +1,1 @@
-import streamlit as st
-
-def app():
-    st.write("Products")
+# will convert the product class to seprate file
